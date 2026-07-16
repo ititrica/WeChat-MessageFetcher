@@ -1,0 +1,13 @@
+# 隐私目录 / 自动生成文件（不上传）
+
+# 抓取生成的聊天记录
+我和*.txt
+
+# 微信自动化日志
+wxauto_logs/
+*AutomationLog*
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
