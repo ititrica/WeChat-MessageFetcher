@@ -12,7 +12,7 @@
 2. 安装依赖
 
    ```bash
-   pip install wxauto4 pywin32
+   pip install wxauto4
    ```
 
 3. 双击 `抓取聊天记录.bat`，或运行
@@ -39,8 +39,3 @@
 TARGET = 1200      # 抓取目标条数
 MAX_STEPS = 600    # 最大滚动步数（防死循环）
 ```
-
-## 隐私
-
-- 用户名已替换为 `yourname`
-- `.gitignore` 已屏蔽 `我和*.txt` 及日志目录，commit 前请确认
